@@ -1,0 +1,577 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="a7a9161f-7c47-4895-91df-b32b79455e55" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../../flask_std/.idea/flask_std.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../advertising-flume/src/main/java/com/star/flume/interceptor/JsonInterceptor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../boot04/src/main/resources/templates/login.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cloud2020/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cloud2020/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cloud2020/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cloud2020/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cloud2020/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cloud2020/cloud-api-commons/cloud-api-commons.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cloud2020/cloud-consumer-feign-order80/cloud-consumer-feign-order80.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cloud2020/cloud-consumer-feign-order80/src/main/resources/application.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cloud2020/cloud-consumer-hystris-dashboard9001/cloud-consumer-hystris-dashboard9001.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cloud2020/cloud-consumer-order80/cloud-consumer-order80.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cloud2020/cloud-consumerzk-order80/cloud-consumerzk-order80.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cloud2020/cloud-eureka-sercer7001/cloud-eureka-sercer7001.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cloud2020/cloud-eureka-server7002/cloud-eureka-server7002.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cloud2020/cloud-gateway-gateway9527/cloud-gateway-gateway9527.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cloud2020/cloud-provider-payment8001/src/main/java/com/atguigu/springcloud/service/PaymentService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cloud2020/cloud-provider-payment8001/src/main/java/com/atguigu/springcloud/service/impl/PaymentServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cloud2020/cloud-provider-payment8004/cloud-provider-payment8004.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cloud2020/cloud-provoder-hystrix-payment8001/cloud-provoder-hystrix-payment8001.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cloud2020/cloud-stream-rabbitmq-provider8801/cloud-stream-rabbitmq-provider8801.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cloud2020/cloudalibaba-config-nacos-client3377/cloudalibaba-config-nacos-client3377.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cloud2020/cloudalibaba-consumer-nacos-order83/cloudalibaba-consumer-nacos-order83.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cloud2020/cloudalibaba-consumer-nacos-order83/src/main/java/com/atguigu/springcloud/controller/OrderController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cloud2020/cloudalibaba-consumer-nacos-order84/cloudalibaba-consumer-nacos-order84.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cloud2020/cloudalibaba-provider-payment9001/cloudalibaba-provider-payment9001.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cloud2020/cloudalibaba-provider-payment9003/cloudalibaba-provider-payment9003.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cloud2020/cloudalibaba-provider-payment9004/cloudalibaba-provider-payment9004.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cloud2020/cloudalibaba-sentinel-service8401/cloudalibaba-sentinel-service8401.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cloud2020/cloudalibaba-sentinel-service8402/cloudalibaba-sentinel-service8402.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../data-content/data-content.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jldata/content-data-web/src/main/resources/templates/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jldata/jldata.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-web-01/src/main/resources/static/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-web-01/src/main/resources/templates/success2.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../python_code/flask_stu/.idea/flask_stu.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../python_code/flask_stu/day03/threadinglocal" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../python_code/flask_stu/day05/sqlalcemy01.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../python_code/flask_stu/day05/sqlalcemy02.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../python_code/flask_stu/day1/app.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../python_code/flask_stu/day1/templates/login.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../python_code/flask_stu/day1/templates/logout.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../python_code/flask_stu/day2/00、入门/1.装饰器.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../python_code/flask_stu/day2/01、配置文件/s1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../python_code/flask_stu/day2/01、配置文件/settings.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../python_code/flask_stu/day2/01、配置文件/所有配置参数" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../python_code/flask_stu/day2/02、路由/s1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../python_code/flask_stu/day2/03、请求与相应/请求与相应" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../python_code/flask_stu/day2/04、模板/s1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../python_code/flask_stu/day2/04、模板/templates/child.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../python_code/flask_stu/day2/04、模板/templates/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../python_code/flask_stu/day2/05、session/s1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../python_code/flask_stu/day2/06、特殊的装饰器/s1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../python_code/flask_stu/day2/07、闪现/s1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../python_code/flask_stu/day4/01、数据库连接池/s1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../python_code/flask_stu/help/ll.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../python_code/flask_stu/test/s1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../python_code/job2/jobCustomWeb/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../python_code/job2/jobCustomWeb/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../python_code/job2/jobCustomWeb/.idea/jobCustomWeb.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../python_code/job2/jobCustomWeb/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../python_code/job2/jobCustomWeb/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../python_code/job2/jobCustomWeb/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../python_code/job2/jobCustomWeb/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../python_code/job2/jobCustomWeb/src/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../python_code/job2/jobCustomWeb/src/settings.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../python_code/job2/jobCustomWeb/src/static/home_page.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../python_code/job2/jobCustomWeb/src/templates/add_module.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../python_code/job2/jobCustomWeb/src/templates/base.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../python_code/job2/jobCustomWeb/src/templates/delete_module.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../python_code/job2/jobCustomWeb/src/templates/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../python_code/job2/jobCustomWeb/src/templates/nothing.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../python_code/job2/jobCustomWeb/src/templates/test.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../python_code/job2/jobCustomWeb/src/templates/use_module.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../python_code/job2/jobCustomWeb/src/view/Database.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../python_code/job2/jobCustomWeb/src/view/build.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../python_code/job2/jobCustomWeb/src/view/execute.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../python_code/job2/jobCustomWeb/src/view/module.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../python_code/job2/jobCustomWeb/src/view/test.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../python_code/job2/jobCustomWeb/src/view/web_ui.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../python_code/pro_flask/.idea/pro_flask.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../pythoncode/.idea/pythoncode.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../pythoncode/job/hello.py" afterDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/out/" />
+    <ignored path="$PROJECT_DIR$/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="testRunner" value="GRADLE" />
+    <option name="delegatedBuild" value="true" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/pom.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="504">
+              <caret line="29" column="19" selection-start-line="29" selection-start-column="19" selection-end-line="29" selection-end-column="19" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/star/zookeeper/ZookeeperDemo.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-544">
+              <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/star/ServerDemo/DistributeServer.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-175">
+              <caret line="22" lean-forward="true" selection-start-line="22" selection-end-line="22" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/star/ServerDemo/DistributeClient.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="300">
+              <caret line="51" column="9" lean-forward="true" selection-start-line="51" selection-start-column="9" selection-end-line="51" selection-end-column="9" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/src/main/resources/log4j.properties" />
+        <option value="$PROJECT_DIR$/src/main/java/com/star/zookeeper/ZookeeperDemo.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/star/ServerDemo/DistributeClient.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/star/ServerDemo/DistributeServer.java" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="alwaysUpdateSnapshots" value="true" />
+        <option name="mavenHome" value="D:/apache-maven-3.5.3" />
+        <option name="userSettingsFile" value="D:\apache-maven-3.5.3\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <expand>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="zookeeper-java-demp" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="zookeeper-java-demp" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="Dependencies" type="f4be9f2a:MavenProjectsStructure$DependenciesNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="zookeeper-java-demp" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="Dependencies" type="f4be9f2a:MavenProjectsStructure$DependenciesNode" />
+          <item name="org.apache.zookeeper:zookeeper:3.4.10" type="c0821a7e:MavenProjectsStructure$DependencyNode" />
+        </path>
+      </expand>
+      <select />
+    </treeState>
+  </component>
+  <component name="ProjectConfigurationFiles">
+    <option name="files">
+      <list>
+        <option value="$PROJECT_DIR$/.idea/compiler.xml" />
+        <option value="$PROJECT_DIR$/.idea/vcs.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-45" />
+    <option name="width" value="1750" />
+    <option name="height" value="885" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="zookeeper-java-demp" type="b2602c69:ProjectViewProjectNode" />
+              <item name="zookeeper-java-demp" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="zookeeper-java-demp" type="b2602c69:ProjectViewProjectNode" />
+              <item name="zookeeper-java-demp" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="zookeeper-java-demp" type="b2602c69:ProjectViewProjectNode" />
+              <item name="zookeeper-java-demp" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="zookeeper-java-demp" type="b2602c69:ProjectViewProjectNode" />
+              <item name="zookeeper-java-demp" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="zookeeper-java-demp" type="b2602c69:ProjectViewProjectNode" />
+              <item name="zookeeper-java-demp" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="star" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="zookeeper-java-demp" type="b2602c69:ProjectViewProjectNode" />
+              <item name="zookeeper-java-demp" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="star" type="462c0819:PsiDirectoryNode" />
+              <item name="zookeeper" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="MavenSettings" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.DistributeServer">
+    <configuration name="DistributeClient" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.star.ServerDemo.DistributeClient" />
+      <module name="zookeeper-java-demp" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.star.ServerDemo.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DistributeServer" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.star.ServerDemo.DistributeServer" />
+      <module name="zookeeper-java-demp" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.star.ServerDemo.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ZookeeperDemo.GetDataAndWatch" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="zookeeper-java-demp" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.star.zookeeper.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.star.zookeeper" />
+      <option name="MAIN_CLASS_NAME" value="com.star.zookeeper.ZookeeperDemo" />
+      <option name="METHOD_NAME" value="GetDataAndWatch" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ZookeeperDemo.GetDataExists" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="zookeeper-java-demp" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.star.zookeeper.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.star.zookeeper" />
+      <option name="MAIN_CLASS_NAME" value="com.star.zookeeper.ZookeeperDemo" />
+      <option name="METHOD_NAME" value="GetDataExists" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ZookeeperDemo.createZnode" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="zookeeper-java-demp" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.star.zookeeper.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.star.zookeeper" />
+      <option name="MAIN_CLASS_NAME" value="com.star.zookeeper.ZookeeperDemo" />
+      <option name="METHOD_NAME" value="createZnode" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="MavenRunConfiguration" factoryName="Maven">
+      <MavenSettings>
+        <option name="myGeneralSettings">
+          <MavenGeneralSettings>
+            <option name="alwaysUpdateSnapshots" value="false" />
+            <option name="checksumPolicy" value="NOT_SET" />
+            <option name="failureBehavior" value="NOT_SET" />
+            <option name="localRepository" value="" />
+            <option name="mavenHome" value="Bundled (Maven 3)" />
+            <option name="nonRecursive" value="false" />
+            <option name="outputLevel" value="INFO" />
+            <option name="pluginUpdatePolicy" value="DEFAULT" />
+            <option name="printErrorStackTraces" value="false" />
+            <option name="threads" />
+            <option name="usePluginRegistry" value="false" />
+            <option name="userSettingsFile" value="D:\apache-maven-3.5.3\conf\settings.xml" />
+            <option name="workOffline" value="false" />
+          </MavenGeneralSettings>
+        </option>
+        <option name="myRunnerSettings" />
+        <option name="myRunnerParameters">
+          <MavenRunnerParameters>
+            <option name="profiles">
+              <set />
+            </option>
+            <option name="goals">
+              <list />
+            </option>
+            <option name="pomFileName" />
+            <option name="profilesMap">
+              <map />
+            </option>
+            <option name="resolveToWorkspace" value="false" />
+            <option name="workingDirPath" value="" />
+          </MavenRunnerParameters>
+        </option>
+      </MavenSettings>
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.DistributeServer" />
+        <item itemvalue="Application.DistributeClient" />
+        <item itemvalue="JUnit.ZookeeperDemo.GetDataExists" />
+        <item itemvalue="JUnit.ZookeeperDemo.GetDataAndWatch" />
+        <item itemvalue="JUnit.ZookeeperDemo.createZnode" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a7a9161f-7c47-4895-91df-b32b79455e55" name="Default Changelist" comment="" />
+      <created>1611404378978</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1611404378978</updated>
+      <workItem from="1611404383225" duration="5998000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="ZookeeperDemo - 2021.01.23 at 20h 48m 03s.xml">
+      <configuration name="ZookeeperDemo" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="ZookeeperDemo_createZnode - 2021.01.23 at 20h 49m 46s.xml">
+      <configuration name="ZookeeperDemo.createZnode" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="ZookeeperDemo_createZnode - 2021.01.23 at 20h 49m 51s.xml">
+      <configuration name="ZookeeperDemo.createZnode" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="ZookeeperDemo_createZnode - 2021.01.23 at 20h 50m 31s.xml">
+      <configuration name="ZookeeperDemo.createZnode" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="ZookeeperDemo_createZnode - 2021.01.23 at 20h 50m 51s.xml">
+      <configuration name="ZookeeperDemo.createZnode" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="ZookeeperDemo_GetDataAndWatch - 2021.01.23 at 20h 53m 24s.xml">
+      <configuration name="ZookeeperDemo.GetDataAndWatch" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="ZookeeperDemo_GetDataAndWatch - 2021.01.23 at 20h 59m 22s.xml">
+      <configuration name="ZookeeperDemo.GetDataAndWatch" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="ZookeeperDemo_GetDataAndWatch - 2021.01.23 at 20h 59m 34s.xml">
+      <configuration name="ZookeeperDemo.GetDataAndWatch" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="ZookeeperDemo_GetDataAndWatch - 2021.01.23 at 20h 59m 36s.xml">
+      <configuration name="ZookeeperDemo.GetDataAndWatch" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="ZookeeperDemo_GetDataExists - 2021.01.23 at 21h 02m 44s.xml">
+      <configuration name="ZookeeperDemo.GetDataExists" configurationId="JUnit" />
+    </history-entry>
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="5998000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Designer" />
+      <window_info id="Image Layers" />
+      <window_info id="Capture Tool" />
+      <window_info id="UI Designer" />
+      <window_info id="Favorites" side_tool="true" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Terminal" />
+      <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info anchor="bottom" id="Database Changes" />
+      <window_info anchor="bottom" id="Version Control" />
+      <window_info anchor="bottom" id="Messages" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.34457478" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.398827" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="right" id="Maven" weight="0.3297587" />
+      <window_info anchor="right" id="Palette" />
+      <window_info anchor="right" id="Capture Analysis" />
+      <window_info anchor="right" id="Database" />
+      <window_info anchor="right" id="Palette&#9;" />
+      <window_info anchor="right" id="Theme Preview" />
+      <window_info anchor="right" id="Coverage" side_tool="true" weight="0.3297587" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/zookeeper_java_demp$DistributeServer.ic" NAME="DistributeServer Coverage Results" MODIFIED="1611409052225" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>com.star.ServerDemo.*</FILTER>
+    </SUITE>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/main/resources/log4j.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="175">
+          <caret line="7" column="58" selection-start-line="7" selection-start-column="58" selection-end-line="7" selection-end-column="58" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="504">
+          <caret line="29" column="19" selection-start-line="29" selection-start-column="19" selection-end-line="29" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/star/ServerDemo/DistributeServer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-175">
+          <caret line="22" lean-forward="true" selection-start-line="22" selection-end-line="22" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/star/ServerDemo/DistributeClient.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="51" column="9" lean-forward="true" selection-start-line="51" selection-start-column="9" selection-end-line="51" selection-end-column="9" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/star/zookeeper/ZookeeperDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-544">
+          <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
